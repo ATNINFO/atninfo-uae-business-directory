@@ -77,21 +77,13 @@ List your business: [https://www.atninfo.com/advertise-with-us](https://www.atni
 
 ---
 
-## 🔗 Backlinks & SEO Benefits
-
-- Main Website: [https://www.atninfo.com](https://www.atninfo.com)  
-- Directory Listings: [https://www.atninfo.com/uae/all](https://www.atninfo.com/uae/all)  
-- Category Pages: Multiple categories linked above for SEO relevance  
-
----
-
 ## 📞 Contact
 
 **ATNINFO – UAE Business Directory**  
-Email: wasihfwork@gmail.com  
-Phone: +971 563137364  
-LinkedIn: [https://www.linkedin.com/in/sahfeerul-wasihf](https://www.linkedin.com/in/sahfeerul-wasihf)  
-GitHub Portfolio: [https://github.com/SAHFEERULWASIHF](https://github.com/SAHFEERULWASIHF)
+Email: info@atninfo.com  
+Phone: +971 4 239 9955 
+LinkedIn: [https://www.linkedin.com/company/atnmediaconcept/](https://www.linkedin.com/company/atnmediaconcept/)  
+GitHub Portfolio: [https://github.com/ATNINFO](https://github.com/ATNINFO)
 
 ---
 
